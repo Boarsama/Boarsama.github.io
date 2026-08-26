@@ -2,6 +2,8 @@
 
 Official informational website for Seattle HR and Legal Professionals Association.
 
+Website: <https://seattlehrandlegalprofessionals.online>
+
 - D-U-N-S® Number: 143061186
 - EIN: 41-3476359
 - Mailing address: 10800 NE 8th Street, Suite 918, Bellevue, WA 98004-4463, United States

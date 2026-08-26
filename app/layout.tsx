@@ -6,7 +6,7 @@ const geistSans = Geist({ variable: '--font-geist-sans', subsets: ['latin'] });
 const geistMono = Geist_Mono({ variable: '--font-geist-mono', subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://boarsama.github.io'),
+  metadataBase: new URL('https://seattlehrandlegalprofessionals.online'),
   title: 'Seattle HR and Legal Professionals Association',
   description: 'A professional association supporting dialogue between human resources and legal professionals in the greater Seattle community.',
   icons: {
@@ -16,10 +16,10 @@ export const metadata: Metadata = {
     title: 'Seattle HR and Legal Professionals Association',
     description: 'Where people, policy, and purpose meet.',
     type: 'website',
-    url: 'https://boarsama.github.io/',
+    url: 'https://seattlehrandlegalprofessionals.online/',
     images: [
       {
-        url: 'https://boarsama.github.io/og.png',
+        url: 'https://seattlehrandlegalprofessionals.online/og.png',
         width: 1200,
         height: 630,
         alt: 'Seattle HR and Legal Professionals Association',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Seattle HR and Legal Professionals Association',
     description: 'Where people, policy, and purpose meet.',
-    images: ['https://boarsama.github.io/og.png'],
+    images: ['https://seattlehrandlegalprofessionals.online/og.png'],
   },
 };
 
